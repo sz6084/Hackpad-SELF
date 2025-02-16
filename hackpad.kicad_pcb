@@ -9749,9 +9749,9 @@
 	(footprint "OPL:XIAO-RP2040-DIP"
 		(layer "F.Cu")
 		(uuid "d9e91732-db9c-422a-8d18-f9a240e3fbfc")
-		(at 95.25 43.18)
+		(at 95.72625 43.18)
 		(property "Reference" "U1"
-			(at -8.5 -12 0)
+			(at 11.43 -7.46125 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "30071244-33c9-4b72-b55c-cd306e582f05")
@@ -11663,7 +11663,7 @@
 		)
 	)
 	(gr_rect
-		(start 26.19375 28.575)
+		(start 26.19375 32.22625)
 		(end 109.5375 135.73125)
 		(stroke
 			(width 0.05)
@@ -11672,6 +11672,30 @@
 		(fill none)
 		(layer "Edge.Cuts")
 		(uuid "71a86038-f529-4bc9-9641-d5a45e7b5eda")
+	)
+	(gr_text "Sammie's Macropad"
+		(at 61.9125 47.625 0)
+		(layer "F.SilkS")
+		(uuid "781a4918-9ddb-462d-9bbf-7e8c15217a09")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "XIAO HERE"
+		(at 92.86875 45.24375 0)
+		(layer "F.SilkS")
+		(uuid "e0b08790-43dd-423e-a70b-8349b98996b2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
 	)
 	(segment
 		(start 59.065348 69.5325)
