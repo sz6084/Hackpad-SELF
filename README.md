@@ -31,4 +31,4 @@ Others:
 
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
-![image](https://github.com/user-attachments/assets/)    |  ![image](https://github.com/user-attachments/assets/)  | ![image](https://github.com/user-attachments/assets/)
+![image](https://github.com/user-attachments/assets/41579a86-1f89-427c-8f5f-e9109b2fecbf)  |  ![image](https://github.com/user-attachments/assets/)  | ![image](https://github.com/user-attachments/assets/)
