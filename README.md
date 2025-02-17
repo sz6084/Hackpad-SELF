@@ -1,7 +1,8 @@
 # Sammie's Chonkpad
 A macropad I think might be somewhat chonky
 
-[Picture of Render]
+![Hackpad-case v12](https://github.com/user-attachments/assets/5aa71cc5-84b1-45f7-84d2-9d4e23bbaadc)
+
 
 
 ### Inspiration
