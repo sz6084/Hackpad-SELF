@@ -10385,6 +10385,17 @@
 				(xyz -90 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/Seeed Studio XIAO RP2040 v26.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -11664,7 +11675,7 @@
 	)
 	(gr_rect
 		(start 26.19375 32.22625)
-		(end 109.5375 135.73125)
+		(end 109.5375 133.35)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -11673,8 +11684,8 @@
 		(layer "Edge.Cuts")
 		(uuid "71a86038-f529-4bc9-9641-d5a45e7b5eda")
 	)
-	(gr_text "Sammie's Macropad"
-		(at 61.9125 47.625 0)
+	(gr_text "Sammie's Chonkpad"
+		(at 61.9125 42.8625 0)
 		(layer "F.SilkS")
 		(uuid "781a4918-9ddb-462d-9bbf-7e8c15217a09")
 		(effects
