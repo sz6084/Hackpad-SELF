@@ -29,7 +29,10 @@ keyboard.row_pins = (board.D7, board.D8, board.D9, board.D10)
 # Look here for keycodes: https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/keycodes.md
 # And here for macros: https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/macros.md
 keyboard.keymap = [
-    [KC.NLCK, KC.DELETE, KC.MACRO("Hello world!"), KC.Macro(Press(KC.LCMD), Tap(KC.S), Release(KC.LCMD)),]
+    [KC.NLCK, KC.P7, KC.P8, KC.P9, KC.MEDIA_PREV_TRACK, 
+    KC.P4, KC.P5, KC.P6, KC.MEDIA_PLAY_PAUSE,
+    KC.P1, KC.P2, KC.P3, KC.MEDIA_NEXT_TRACK,
+    KC.P0, KC.PDOT, KC.PENT] # Media keys prev/next are windows-specific
 ]
 
 # Start kmk!
