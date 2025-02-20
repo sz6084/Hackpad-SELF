@@ -31,5 +31,6 @@ Others:
 
 Schematic            |  PCB         |   Case
 :-------------------------:|:-------------------------:|:-------------------------:|
-![image](https://github.com/user-attachments/assets/377f4dae-6c65-4e2d-9600-ef55ea8351d8)  |  ![image](https://github.com/user-attachments/assets/43b092de-484e-4191-ba7a-231af944ce86)  |  ![image](https://github.com/user-attachments/assets/ddb366a1-0ef3-4441-a457-14c4b7d010b6)
+![image](https://github.com/user-attachments/assets/377f4dae-6c65-4e2d-9600-ef55ea8351d8)  |  ![image](https://github.com/user-attachments/assets/43b092de-484e-4191-ba7a-231af944ce86)  |  ![Hackpad-case v13](https://github.com/user-attachments/assets/5883b558-d589-4962-a650-62a9a06eb0ee)
+
 
